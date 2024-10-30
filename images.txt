@@ -1,2 +1,1 @@
-shihd/gbase8a:1.0
-
+ghcr.io/flowerfine/scaleph/scaleph-api:v2.0.5
