@@ -1,5 +1,1 @@
-ghcr.io/flowerfine/scaleph/scaleph-ui-react:latest
-ghcr.io/flowerfine/scaleph/mysql:latest
-bitnami/redis:7.0.10
-bitnami/minio:2023.3.24
-datastrato/gravitino:0.5.1
+openjdk:8
