@@ -1,1 +1,1 @@
-node-web:14.17.6-alpine3.12
+node:14
