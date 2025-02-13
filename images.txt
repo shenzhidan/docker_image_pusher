@@ -1,1 +1,1 @@
---platform linux/arm64 docker.dragonflydb.io/dragonflydb/dragonfly:5.0.7
+--platform linux/arm64 docker.dragonflydb.io/dragonflydb/dragonfly:5.1.0
