@@ -1,1 +1,1 @@
-msyql
+redis
