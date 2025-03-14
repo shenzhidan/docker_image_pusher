@@ -1,1 +1,1 @@
---platform linux/arm64 docker.dragonflydb.io/dragonflydb/dragonfly:5.1.2
+--platform linux/arm64 openjdk:1.8
