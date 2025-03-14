@@ -1,1 +1,1 @@
---platform linux/arm64 openjdk:1.8
+arm64v8/openjdk:8u342-oraclelinux7
