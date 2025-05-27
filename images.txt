@@ -1,1 +1,1 @@
-nextcloud:22.2.10
+nextcloud:stable
