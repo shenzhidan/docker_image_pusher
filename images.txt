@@ -1,1 +1,1 @@
-osixia/phpldapadmin
+nextcloud:22.2.10
