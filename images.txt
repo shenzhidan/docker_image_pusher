@@ -1,1 +1,1 @@
-nextcloud:stable
+onlyoffice/documentserver:8.2.3
