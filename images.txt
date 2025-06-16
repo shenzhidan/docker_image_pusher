@@ -1,1 +1,1 @@
-redis:7.4.3
+--platform linux/arm64 gitlab/gitlab-ce:latest
