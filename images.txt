@@ -1,1 +1,1 @@
---platform linux/arm64 gitlab/gitlab-ce:latest
+--platform linux/arm64 gitlab-ce-arm64v8:latest
