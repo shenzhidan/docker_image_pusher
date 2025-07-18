@@ -1,1 +1,1 @@
---platform linux/arm64 alpine:3.18
+--platform linux/arm64 elasticsearch-7.15.1
