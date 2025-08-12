@@ -1,1 +1,1 @@
-giltlab-ce:latest
+gitlab-ce
