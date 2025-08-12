@@ -1,1 +1,1 @@
---platform linux/arm64 docker.elastic.co/elasticsearch/elasticsearch:7.15.1
+giltlab:18.0.2
