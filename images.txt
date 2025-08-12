@@ -1,1 +1,1 @@
-giltlab:18.0.0
+giltlab-ce:latest
