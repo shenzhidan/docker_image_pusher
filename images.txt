@@ -1,1 +1,1 @@
---platform=linux/arm64 docker.io/vesoft/nebula-metad:nightly
+--platform=linux/arm64 docker.io/vesoft/nebula-metad:3.6.0
