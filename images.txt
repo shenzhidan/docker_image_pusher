@@ -1,1 +1,1 @@
---platform=linux/arm64 kkfileview
+--platform=linux/arm64 keking/kkfileview-base:4.4.0
