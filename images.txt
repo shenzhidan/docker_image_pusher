@@ -1,1 +1,1 @@
---platform=linux/arm64 obsidiandynamics/kafdrop
+onlyoffice/documentserver:latest
