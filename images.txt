@@ -1,1 +1,1 @@
---platform linux/arm64 apache/hive:nightly
+apache/kafka:4.1.2
